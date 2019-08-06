@@ -25,7 +25,7 @@ git clone https://github.com/lakilea/esx_croone_walkietalkie [esx]/esx_croone_wa
 start esx_croone_walkietalkie
 ```
 
-## Languages
+### Languages
 - English
 - Türkçe
 
