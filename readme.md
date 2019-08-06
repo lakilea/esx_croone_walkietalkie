@@ -9,11 +9,11 @@
 ### Using Git
 ```
 cd resources
-git clone https://github.com/ESX-Org/esx_property [esx]/esx_property
+git clone https://github.com/lakilea/esx_croone_walkietalkie [esx]/esx_croone_walkietalkie
 ```
 
 ### Manually
-- Download https://github.com/ESX-Org/esx_property/archive/master.zip
+- Download https://github.com/lakilea/esx_croone_walkietalkie/archive/master.zip
 - Put it in the `[esx]` directory
 
 ## Installation
@@ -25,11 +25,14 @@ git clone https://github.com/ESX-Org/esx_property [esx]/esx_property
 start esx_croone_walkietalkie
 ```
 
-# Legal
+## Languages
+- English
+- Türkçe
+
 ### License
 esx_croone_walkietalkie - a simple walkie talkie script!
 
-Copyright (C) 2015-2018 Jérémie N'gadi
+Copyright (C) 2019 Zafer KOCA - Croone Software UK
 
 This program Is free software: you can redistribute it And/Or modify it under the terms Of the GNU General Public License As published by the Free Software Foundation, either version 3 Of the License, Or (at your option) any later version.
 
